@@ -10,4 +10,4 @@ def cal(*num):
 
 
 
-print ()
+print (cal(1,2,3,4))
